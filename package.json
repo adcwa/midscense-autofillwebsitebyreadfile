@@ -1,0 +1,7 @@
+{
+	"devDependencies": {
+		"@midscene/web": "^0.12.8",
+		"puppeteer": "^24.4.0",
+		"tsx": "^4.19.3"
+	}
+}

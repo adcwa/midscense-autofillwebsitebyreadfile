@@ -9,6 +9,9 @@ Promise.resolve(
       headless: false, // here we use headed mode to help debug
     });
 
+
+    
+
     console.log("Creating new page...");
     const page = await browser.newPage();
     await page.setViewport({
